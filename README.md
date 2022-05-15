@@ -1,0 +1,2 @@
+# gratificacaonatal
+Esse programa Java calcula a gratificação de Natal de um funcionário. Ele recebe um valor inteiro relacionado ao número de horas extras trabalhadas, em seguida outro inteiro relacionado a horas faltadas e então faz o cálculo do total na variável "total".  Depois, usa uma condicional com if else para recalcular o valor da variável total. Por fim, ele faz o print de quanto o funcionário, baseado no valor calculado da variável, receberá de gratificação de natal.
